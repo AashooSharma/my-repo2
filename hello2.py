@@ -1,7 +1,5 @@
-print('hello test
-',2+2)
-print('hello test
-')
+print('hello test',2+2)
+print('hello test')
 print('hello test 2')
 print('hello test 2')
 print()
